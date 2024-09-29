@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Luca Rossi",
+    "age": 35,
+    "years_of_service": 10,
+    "role": "Software Engineer",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+    "bio": "Luca è un ingegnere del software specializzato in applicazioni web. Sin da bambino ha avuto una grande passione per l'informatica, costruendo il suo primo sito web a soli 13 anni. Negli anni ha contribuito a diversi progetti open-source e oggi guida un piccolo team di sviluppo, dedicandosi soprattutto a tecnologie moderne come React e Node.js. È noto per il suo approccio metodico e la capacità di risolvere problemi complessi con soluzioni eleganti.",
+    "hobbies": ["Ciclismo", "Giochi da tavolo", "Programmazione", "Scacchi", "Astronomia"]
+  },
+  {
+    "id": 2,
+    "name": "Giulia Bianchi",
+    "age": 29,
+    "years_of_service": 6,
+    "role": "Project Manager",
+    "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+    "bio": "Giulia è una project manager di successo con una formazione in ingegneria gestionale. La sua attenzione ai dettagli e la sua capacità di organizzare team complessi la rendono un punto di riferimento in azienda. Ha gestito progetti su larga scala per multinazionali e startup, sempre con un approccio centrato sulla qualità e sul rispetto delle scadenze. Fuori dal lavoro, Giulia è una grande appassionata di fotografia naturalistica e partecipa spesso a escursioni per catturare paesaggi mozzafiato.",
+    "hobbies": ["Lettura", "Escursionismo", "Cucina", "Fotografia", "Surf"]
+  },
+  {
+    "id": 3,
+    "name": "Mario Verdi",
+    "age": 40,
+    "years_of_service": 12,
+    "role": "UX/UI Designer",
+    "photo": "https://randomuser.me/api/portraits/men/3.jpg",
+    "bio": "Mario è un designer di esperienza utente con un background in belle arti. La sua carriera è iniziata come illustratore, ma la passione per la tecnologia lo ha portato nel mondo del design digitale. Da allora ha creato interfacce innovative per applicazioni mobile e web, collaborando con team di sviluppo in tutto il mondo. Mario crede fortemente nell'unione tra arte e funzionalità, creando design che non sono solo belli, ma anche intuitivi per gli utenti.",
+    "hobbies": ["Fotografia", "Arte digitale", "Viaggi", "Pittura", "Giardinaggio"]
+  },
+  {
+    "id": 4,
+    "name": "Sara Neri",
+    "age": 33,
+    "years_of_service": 8,
+    "role": "Data Analyst",
+    "photo": "https://randomuser.me/api/portraits/women/4.jpg",
+    "bio": "Sara è una data analyst con un'incredibile passione per i numeri e i dati. Laureata in statistica, ha iniziato la sua carriera nel settore delle telecomunicazioni prima di passare al mondo delle analisi aziendali. È conosciuta per la sua capacità di trasformare dati grezzi in preziose intuizioni che aiutano a prendere decisioni strategiche. Nel tempo libero ama sfidarsi con puzzle complessi e si è recentemente appassionata alla scienza dei dati applicata allo sport.",
+    "hobbies": ["Corsa", "Puzzle", "Musica", "Scienza dei dati", "Fotografia sportiva"]
+  },
+  {
+    "id": 5,
+    "name": "Andrea Ricci",
+    "age": 28,
+    "years_of_service": 5,
+    "role": "Marketing Specialist",
+    "photo": "https://randomuser.me/api/portraits/men/5.jpg",
+    "bio": "Andrea è un giovane specialista di marketing con una forte inclinazione verso il digitale. Ha una laurea in comunicazione e pubblicità e ha sviluppato strategie innovative per diversi brand emergenti. La sua capacità di prevedere le tendenze e di adattare le campagne di marketing lo rende un membro fondamentale del team. Quando non lavora, Andrea ama scrivere racconti e gioca a pallavolo a livello competitivo.",
+    "hobbies": ["Scrittura creativa", "Social media", "Pallavolo", "Videogiochi", "Collezionismo di vinili"]
+  },
+  {
+    "id": 6,
+    "name": "Elisa Conti",
+    "age": 31,
+    "years_of_service": 7,
+    "role": "HR Manager",
+    "photo": "https://randomuser.me/api/portraits/women/6.jpg",
+    "bio": "Elisa ha dedicato la sua carriera a creare ambienti di lavoro inclusivi e positivi. Dopo una laurea in psicologia del lavoro, è entrata nel mondo delle risorse umane e ha fatto strada velocemente grazie alla sua empatia e capacità di risolvere conflitti interpersonali. Attualmente guida un team HR che si occupa di reclutamento e benessere aziendale. Nel suo tempo libero, pratica yoga e si dedica a progetti fotografici che raccontano storie di persone.",
+    "hobbies": ["Yoga", "Fotografia", "Viaggi", "Mindfulness", "Meditazione"]
+  },
+  {
+    "id": 7,
+    "name": "Marco Esposito",
+    "age": 45,
+    "years_of_service": 20,
+    "role": "CTO",
+    "photo": "https://randomuser.me/api/portraits/men/7.jpg",
+    "bio": "Marco è il Chief Technology Officer dell'azienda e ha un'esperienza che abbraccia più di due decenni nel settore IT. Ha iniziato come programmatore C++ e ha scalato le gerarchie fino a diventare CTO, portando l'azienda a innovare nel cloud computing e nell'intelligenza artificiale. È un leader visionario che ama formare nuovi talenti e diffondere la sua passione per le tecnologie emergenti.",
+    "hobbies": ["Tennis", "Lettura", "Giardinaggio", "Mentorship", "Tecnologie emergenti"]
+  },
+  {
+    "id": 8,
+    "name": "Francesca Marino",
+    "age": 27,
+    "years_of_service": 3,
+    "role": "Junior Developer",
+    "photo": "https://randomuser.me/api/portraits/women/8.jpg",
+    "bio": "Francesca è una sviluppatrice junior con una forte passione per il front-end e il design responsive. Si è laureata in informatica e, pur essendo all'inizio della sua carriera, ha già dimostrato un'attenzione particolare per i dettagli e la risoluzione dei bug più complessi. Fuori dall'orario di lavoro, è un'appassionata di videogiochi e partecipa regolarmente a hackathon per migliorare le sue abilità di coding.",
+    "hobbies": ["Coding", "Videogiochi", "Fotografia", "Hackathon", "Running"]
+  },
+  {
+    "id": 9,
+    "name": "Alessandro Ferri",
+    "age": 38,
+    "years_of_service": 11,
+    "role": "Network Engineer",
+    "photo": "https://randomuser.me/api/portraits/men/9.jpg",
+    "bio": "Alessandro è un ingegnere di rete con una profonda conoscenza delle infrastrutture IT. Ha lavorato in ambienti mission-critical e ha implementato soluzioni di rete scalabili e sicure. La sua passione per l'hardware e il networking lo porta a essere sempre aggiornato sulle ultime tecnologie. Nel tempo libero, si diletta in gare di scacchi e ama riparare vecchie biciclette.",
+    "hobbies": ["Scacchi", "Gaming", "Bici", "Riparazione hardware", "Automobilismo"]
+  },
+  {
+    "id": 10,
+    "name": "Chiara De Luca",
+    "age": 34,
+    "years_of_service": 9,
+    "role": "Business Analyst",
+    "photo": "https://randomuser.me/api/portraits/women/10.jpg",
+    "bio": "Chiara ha una lunga esperienza nell'analisi dei processi aziendali e nella consulenza. Ha lavorato per alcune delle più grandi aziende globali e ha affinato la sua capacità di migliorare l'efficienza operativa. Chiara è appassionata di danza contemporanea, una passione che l'accompagna sin da bambina e che oggi pratica a livello semi-professionale.",
+    "hobbies": ["Danza", "Cucina", "Viaggi", "Danza contemporanea", "Progettazione di interni"]
+  },
+  {
+    "id": 11,
+    "name": "Giorgio Mancini",
+    "age": 30,
+    "years_of_service": 7,
+    "role": "DevOps Engineer",
+    "photo": "https://randomuser.me/api/portraits/men/11.jpg",
+    "bio": "Giorgio è un DevOps Engineer specializzato in automazione e pipeline di CI/CD. Il suo lavoro consiste nel garantire che il codice venga rilasciato con rapidità e sicurezza, riducendo al minimo i tempi di inattività. Giorgio ha anche una passione per l'analisi dei log e la sicurezza IT. Nel suo tempo libero, si dedica alla corsa di lunga distanza e alle maratone.",
+    "hobbies": ["Running", "Gaming", "Film", "Maratone", "Fumetti"]
+  },
+  {
+    "id": 12,
+    "name": "Silvia Moretti",
+    "age": 36,
+    "years_of_service": 11,
+    "role": "Scrum Master",
+    "photo": "https://randomuser.me/api/portraits/women/12.jpg",
+    "bio": "Silvia è una Scrum Master certificata che facilita il lavoro di squadra attraverso metodologie agili. Con un passato come sviluppatrice, Silvia comprende bene le dinamiche dei team tecnici ed è abile nel risolvere conflitti e migliorare la produttività. È anche una fervente sostenitrice del lavoro remoto e della flessibilità sul posto di lavoro.",
+    "hobbies": ["Lettura", "Yoga", "Arte", "Viaggi zaino in spalla", "Musica jazz"]
+  },
+  {
+    "id": 13,
+    "name": "Davide Longo",
+    "age": 41,
+    "years_of_service": 15,
+    "role": "Security Specialist",
+    "photo": "https://randomuser.me/api/portraits/men/13.jpg",
+    "bio": "Davide ha iniziato la sua carriera come amministratore di sistemi prima di specializzarsi in sicurezza informatica. È noto per aver gestito crisi legate a violazioni di dati e attacchi ransomware, portando l'azienda fuori da situazioni difficili con successo. Nel tempo libero, Davide partecipa a competizioni di sicurezza informatica e si diletta in cucina gourmet.",
+    "hobbies": ["Ciclismo", "Fotografia", "Cucina gourmet", "Competizioni di cybersecurity", "Scacchi"]
+  },
+  {
+    "id": 14,
+    "name": "Laura Greco",
+    "age": 32,
+    "years_of_service": 8,
+    "role": "Sales Manager",
+    "photo": "https://randomuser.me/api/portraits/women/14.jpg",
+    "bio": "Laura è una Sales Manager con un talento naturale per la negoziazione e la gestione dei clienti. Ha lavorato in diverse aziende nel settore tecnologico, raggiungendo risultati di vendita eccezionali. Laura crede che una buona comunicazione sia alla base di ogni rapporto commerciale di successo. Fuori dal lavoro, ama viaggiare e sperimentare nuove ricette culinarie, sempre alla ricerca del piatto perfetto.",
+    "hobbies": ["Tennis", "Viaggi", "Cucina", "Escursionismo", "Fotografia di viaggio"]
+  },
+  {
+    "id": 15,
+    "name": "Pietro Fontana",
+    "age": 39,
+    "years_of_service": 13,
+    "role": "Product Manager",
+    "photo": "https://randomuser.me/api/portraits/men/29.jpg",
+    "bio": "Pietro è un Product Manager con una vasta esperienza nello sviluppo di prodotti tecnologici. Ha guidato team multidisciplinari per portare sul mercato alcuni dei prodotti più innovativi dell'azienda. È appassionato di tecnologie emergenti e ha una mente strategica che gli consente di vedere opportunità dove altri vedono solo ostacoli. Quando non lavora, Pietro si rilassa leggendo libri di fantascienza o guardando film d'autore.",
+    "hobbies": ["Calcio", "Lettura", "Cinema", "Fantascienza", "Viaggi"]
+  },
+  {
+    "id": 16,
+    "name": "Federica Colombo",
+    "age": 26,
+    "years_of_service": 1,
+    "role": "Junior Data Scientist",
+    "photo": "https://randomuser.me/api/portraits/women/16.jpg",
+    "bio": "Federica è una giovane data scientist che si distingue per la sua curiosità e la voglia di imparare. Nonostante sia all'inizio della sua carriera, ha già lavorato su progetti complessi che richiedono la gestione di grandi volumi di dati. Ha una formazione in matematica applicata e nel tempo libero si dedica alla pittura e all'escursionismo.",
+    "hobbies": ["Pittura", "Escursionismo", "Viaggi", "Matematica applicata", "Fotografia naturalistica"]
+  },
+  {
+    "id": 17,
+    "name": "Matteo Galli",
+    "age": 44,
+    "years_of_service": 18,
+    "role": "Senior Developer",
+    "photo": "https://randomuser.me/api/portraits/men/17.jpg",
+    "bio": "Matteo è uno sviluppatore senior con una carriera che si estende per quasi due decenni. Ha lavorato su progetti di sviluppo software per molte aziende globali, acquisendo una vasta esperienza in diverse tecnologie. È un mentore per molti giovani sviluppatori e si impegna costantemente a migliorare le sue competenze. Nel tempo libero, Matteo si dedica all'escursionismo e alla fotografia paesaggistica.",
+    "hobbies": ["Escursionismo", "Fotografia", "Automobilismo", "Mentoring", "Pittura ad olio"]
+  },
+  {
+    "id": 18,
+    "name": "Simona Barone",
+    "age": 37,
+    "years_of_service": 12,
+    "role": "Content Strategist",
+    "photo": "https://randomuser.me/api/portraits/women/18.jpg",
+    "bio": "Simona è una Content Strategist che crea strategie di contenuto per massimizzare il coinvolgimento degli utenti. Con un background in giornalismo, ha una profonda comprensione di come raccontare storie che risuonano con il pubblico. Ha lavorato con aziende di vari settori, creando contenuti che educano e ispirano. Simona è una fervente lettrice e una ballerina di danza classica nel tempo libero.",
+    "hobbies": ["Cucina", "Lettura", "Danza classica", "Pittura", "Scrittura di racconti brevi"]
+  },
+  {
+    "id": 19,
+    "name": "Giovanni Lombardi",
+    "age": 50,
+    "years_of_service": 25,
+    "role": "CEO",
+    "photo": "https://randomuser.me/api/portraits/men/19.jpg",
+    "bio": "Giovanni è il CEO dell'azienda e vanta oltre 25 anni di esperienza nel settore tecnologico. Ha iniziato la sua carriera come sviluppatore prima di passare alla gestione aziendale, guidando la trasformazione digitale di diverse imprese. Sotto la sua guida, l'azienda ha raggiunto nuovi traguardi, espandendosi a livello globale. Giovanni è un grande appassionato di golf e crede fermamente nella continua crescita personale e professionale.",
+    "hobbies": ["Golf", "Viaggi", "Lettura", "Sviluppo personale", "Imprenditoria"]
+  },
+  {
+    "id": 20,
+    "name": "Vittoria Laudata",
+    "age": 35,
+    "years_of_service": 12,
+    "role": "Junior Data Scientist",
+    "photo": "https://randomuser.me/api/portraits/women/21.jpg",
+    "bio": "Vittoria è una data scientist che ha iniziato la sua carriera come analista finanziaria prima di spostarsi nel mondo dei big data. Ha una grande passione per l'analisi predittiva e l'apprendimento automatico, e ha lavorato su progetti che hanno portato notevoli miglioramenti nelle prestazioni aziendali. Fuori dall'orario di lavoro, Vittoria ama le attività all'aperto, soprattutto le scalate.",
+    "hobbies": ["Scalate", "Escursionismo", "Social media", "Mountain bike", "Fitness"]
+  },
+  {
+    "id": 21,
+    "name": "Gianluca Mancini",
+    "age": 44,
+    "years_of_service": 18,
+    "role": "Senior Developer",
+    "photo": "https://randomuser.me/api/portraits/men/30.jpg",
+    "bio": "Gianluca è uno sviluppatore senior con oltre 18 anni di esperienza nello sviluppo software. Ha contribuito a progetti su larga scala per aziende di tutto il mondo, sviluppando soluzioni complesse e scalabili. Gianluca è noto per il suo approccio analitico e la sua capacità di lavorare sotto pressione. Nel suo tempo libero, ama esplorare le montagne e praticare la fotografia paesaggistica.",
+    "hobbies": ["Escursionismo", "Fotografia", "Automobilismo", "Gare di droni", "Ciclismo su strada"]
+  }
+]

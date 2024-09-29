@@ -1,0 +1,14 @@
+
+.bio-image {
+  flex-basis: 50%;
+}
+
+.bio-info {
+  padding: 1em;
+  flex-basis: 50%;
+}
+
+img {
+  width: 200px;
+  display: block;
+}
